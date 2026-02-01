@@ -1,7 +1,7 @@
 # QR Code Generator
 
 ## Description
-This is a **QR Code Generator** built using **Python** and **PyQt5**. It allows users to generate QR codes based on an employee's name and ID, saving them automatically in a designated folder.
+This is a **QR Code Generator** built using **Python** and **PyQt5**. It allows users to generate QR codes based on an employee's name and ID, saving them automatically in a designated folder. 
 
 ## Features
 - User-friendly GUI built with **PyQt5**.
